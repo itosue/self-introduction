@@ -11,15 +11,14 @@ The exchange with the international Open-Source community has helped me and my e
 
 # Attendee
 
-### Takashi hosoya
+### Takashi HOSOYA
 
-Hello! My name is Takasih Hosoya. I am 34 years old.
-I live in Takarazuka city , Hyogo ,Japan.
+Hello! My name is Takashi HOSOYA. I am 34 years old.
+I live in Takarazuka city, Hyogo, Japan.
 I operated the "CoderDojoNishinomiya".
-This is CoderDojoNishinomiya's Website.
-http://coderdojo-nishinomiya.info/
+This is the CoderDojoNishinomiya's Website: http://coderdojo-nishinomiya.info/
 
-CoderDojo is alos open source project.
+CoderDojo is also a open source project.
 Very cool!
 
 =======
