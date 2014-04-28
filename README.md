@@ -22,3 +22,9 @@ http://coderdojo-nishinomiya.info/
 CoderDojo is alos open source project.
 Very cool!
 
+=======
+### konitter
+
+Hello, my name is konitter. I am 32 years old.
+I am a project manager at NTT ADVERTISING in Osaka. I like to work with Excel, Powerpoint and Word to create some documents. I like to write HTML, CSS, and JavaScript. I am interested in front-end tools. An example is [Grunt](https://github.com/gruntjs/grunt) or [gulp](https://github.com/gulpjs/gulp).
+I like opensource because I get feedback from various users.
