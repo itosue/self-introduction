@@ -27,3 +27,12 @@ Very cool!
 Hello, my name is [@konitter](https://github.com/konitter). I am 32 years old.
 I am a project manager at NTT ADVERTISING in Osaka. I like to work with Excel, Powerpoint and Word to create documents. I like to write HTML, CSS and JavaScript. I am interested in front-end tools such as [Grunt](https://github.com/gruntjs/grunt) or [gulp](https://github.com/gulpjs/gulp).
 I like opensource because I get feedback from various users.
+
+=======
+### [@Nakyau](https://github.com/nakyau)
+
+Hello. My name is Nakyau. 
+I am a developer in Osaka. I like to work at php and javascript.
+I like opensource because opensource products are well tested and they have high reliability.
+I am interested in android / iOS development.
+
