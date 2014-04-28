@@ -10,3 +10,15 @@ I am not a native speaker. Much like you, I also studied english from Junior Hig
 The exchange with the international Open-Source community has helped me and my english skills a lot. Not just in regards to reading and writing but also with my speaking skills. These days I can communicate my thoughts fluently in english and I thought that maybe I can share some lessons with you!
 
 # Attendee
+
+### Takashi hosoya
+
+Hello! My name is Takasih Hosoya. I am 34 years old.
+I live in Takarazuka city , Hyogo ,Japan.
+I operated the "CoderDojoNishinomiya".
+This is CoderDojoNishinomiya's Website.
+http://coderdojo-nishinomiya.info/
+
+CoderDojo is alos open source project.
+Very cool!
+
