@@ -36,3 +36,13 @@ I am a developer in Osaka. I like to work at php and javascript.
 I like opensource because opensource products are well tested and they have high reliability.
 I am interested in android / iOS development.
 
+=======
+### [@hideyuki8546](https://github.com/hideyuki8546)
+
+Hallo. I'm Hideyuki, 29 years old. I live in Ashiya-city, Hyogo, Japan.
+I just started to learn about Html 5/ CSS/ JavaScript two weeks ago.
+So I don't know very little about programming.
+But I was very excited thanks to the teacher and members of this class!!!
+I know about "what is open source" "Twitter Bootstrap" for the first time in this class. Now I'm glad to got to use bootstrap easily like this (http://geeks.secret.jp/)※this website is just a temporary example. 
+
+I have respect for developers, and I am very happy that it was able to spend time together. Thanks.
