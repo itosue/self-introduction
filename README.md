@@ -46,3 +46,14 @@ But I am very excited thanks to the teacher and members of this class!!!
 I know about "what is open source" "Twitter Bootstrap" for the first time in this class. Now I'm glad to got to use bootstrap easily like [this](http://geeks.secret.jp/) (this website is just a temporary example). 
 
 I have respect for the developers, and I am very happy that I was able to spend time together. Thanks.
+
+=======
+### [@itosue](https://github.com/itosue)
+
+Hi! I'm itosue, an engineer working in Osaka. 
+I attended "English for Opensource developers 2nd session" held on 5/31 2014.
+I enjoy coding some tools to make my daily life better and hope to be a one of OSS supporter(or developer if I could?).
+I'd like to communicate with overseas engineers in English so I want to improve my English comunication skills.
+Take it easy to talk to me when take a class with me and have fun together!  
+Thanks ;-)  
+[twitter](https://twitter.com/itosue)
