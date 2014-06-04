@@ -52,8 +52,8 @@ I have respect for the developers, and I am very happy that I was able to spend 
 
 Hi! I'm itosue, an engineer working in Osaka. 
 I attended "English for Opensource developers 2nd session" held on 5/31 2014.
-I enjoy coding some tools to make my daily life better and hope to be a one of OSS supporter(or developer if I could?).
-I'd like to communicate with overseas engineers in English so I want to improve my English comunication skills.
-Take it easy to talk to me when take a class with me and have fun together!  
+I enjoy coding some tools to make my daily life better and hope to be a OSS supporter(or developer if I can).
+I'd like to communicate with overseas engineers in English so I want to improve my English communication skills.
+Take it easy to talk to me when take a class with me and let's have fun together!  
 Thanks ;-)  
 [twitter](https://twitter.com/itosue)
